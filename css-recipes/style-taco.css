@@ -1,0 +1,23 @@
+p {
+    color: aqua;
+}
+body {
+    font-family: 'Signika', sans-serif;
+    background-color: #ffcc00;
+}
+h1 {
+    text-align: center;
+    color: #00c193;
+}
+h2 {
+    color: #8596ff;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color:#00c193;
+}
+li {
+    font-family: 'Source Code Pro', monospace;
+     color: #341c24;
+}
