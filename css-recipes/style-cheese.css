@@ -1,0 +1,10 @@
+body {
+    font-family: cursive;
+    background-image: linear-gradient(#F2F4F5,#FFBB1C,#F27F0C)
+}
+.red-text,h2{
+    color: #D01B59;
+}
+li,p {
+    color: #F3FC10;
+}
